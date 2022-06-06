@@ -1,0 +1,16 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "Mutex",
+  "sourceName": "contracts/Mutex.sol",
+  "abi": [
+    {
+      "inputs": [],
+      "stateMutability": "nonpayable",
+      "type": "constructor"
+    }
+  ],
+  "bytecode": "0x6080604052348015600f57600080fd5b506001600081905550603f8060256000396000f3fe6080604052600080fdfea2646970667358221220f803e6f6cf520bd9d7549ee373155e2a28a1ea5ee8c0d960167cd2ff844ee63e64736f6c634300080c0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220f803e6f6cf520bd9d7549ee373155e2a28a1ea5ee8c0d960167cd2ff844ee63e64736f6c634300080c0033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
